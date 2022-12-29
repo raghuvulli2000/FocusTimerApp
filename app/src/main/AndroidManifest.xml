@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.locofoco">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LocoFoco">
+
+
+<!--        Detail/delete Activity-->
+        <activity
+            android:name=".DetailActivity"
+            android:theme="@style/Theme.wtrMelon"
+            android:exported="false" />
+
+
+<!--        PopUpWindow-->
+        <activity
+            android:theme="@style/Theme.wtrMelon"
+            android:name=".PopUpWindow"
+            android:exported="true">
+        </activity>
+
+
+
+<!--        Gallery-->
+        <activity
+            android:theme="@style/Theme.wtrMelon"
+            android:name=".GalleryActivity"
+            android:exported="true">
+        </activity>
+
+
+
+        <!--Timer Select Screen-->
+        <activity
+            android:theme="@style/Theme.wtrMelon"
+            android:name=".TimePicker"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+
+        <!--Main Timer CountDown Screen-->
+        <activity
+            android:theme="@style/Theme.wtrMelon"
+            android:name=".MainActivity"
+            android:launchMode="singleTask"
+            android:exported="true">
+        </activity>
+        <service android:name=".TimerService" />
+
+        <meta-data
+            android:name = "API_KEY"
+            android:value = "${KEY}"/>
+
+
+    </application>
+
+
+</manifest>

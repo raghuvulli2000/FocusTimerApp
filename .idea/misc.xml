@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/h7922/AndroidStudioProjects/FocusApp/app/src/main/res/layout/activity_gallery.xml" value="0.23867753623188406" />
+        <entry key="..\:/Users/h7922/AndroidStudioProjects/FocusApp/app/src/main/res/layout/item_image.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14791666666666667" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/drawable/animate_list.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/drawable/custom_button.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/drawable/gradient_bkg.xml" value="0.22" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/drawable/gradient_btn.xml" value="0.11296296296296296" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/drawable/ic_baseline_more_time_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/drawable/ic_baseline_pause_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/drawable/ic_baseline_pause_circle_outline_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/drawable/ic_baseline_play_circle_outline_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/drawable/ic_baseline_replay_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/drawable/ic_gallery.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/drawable/ic_send.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/drawable/invertedgradbkg.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/drawable/simp_r_btn.xml" value="0.1" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/layout/activity_detail.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/layout/activity_gallery.xml" value="0.14375" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/layout/activity_popup_window.xml" value="0.22" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/layout/activity_time_picker.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/layout/item_image.xml" value="0.1796875" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.11979166666666667" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/menu/detail_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/menu/main_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.1296875" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/menu/menu_gallery.xml" value="0.14375" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/steph/AndroidStudioProjects/FocusApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/thuyd/AndroidStudioProjects/FocusApp/app/src/main/res/layout/activity_gallery.xml" value="0.11354166666666667" />
+        <entry key="..\:/Users/thuyd/AndroidStudioProjects/FocusApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/thuyd/AndroidStudioProjects/FocusApp/app/src/main/res/layout/item_image.xml" value="0.15625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1503623188405797" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.13177083333333334" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
